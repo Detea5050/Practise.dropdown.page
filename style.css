@@ -114,7 +114,7 @@ body {
 }
 
 .news h2 {
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin-bottom: 1em;
 }
 
@@ -130,9 +130,10 @@ body {
 
 .news p {
   font-size: 1em;
+
   color: var(--clr-neutral);
   margin-bottom: 2em;
-  width: 85%;
+  width: 75%;
   line-height: 30px;
 }
 
