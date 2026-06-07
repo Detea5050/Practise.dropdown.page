@@ -248,7 +248,7 @@ body {
 }
 
 .dropdown-content {
-  display: none !important;
+  display: none;
 }
 
 @media screen and (max-width: 600px) {
