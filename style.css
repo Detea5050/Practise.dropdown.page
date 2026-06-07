@@ -246,6 +246,10 @@ body {
   color: var(--clr-soft-orange);
 }
 
+.dropdown-content {
+  display: none !important;
+}
+
 @media screen and (max-width: 600px) {
   body {
     padding: 2em;

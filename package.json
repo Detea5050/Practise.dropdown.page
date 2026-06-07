@@ -1,0 +1,23 @@
+{
+  "name": "news-homepage-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the News homepage coding challenge](preview.jpg)",
+  "main": "script.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detea5050/Practise.dropdown.page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Detea5050/Practise.dropdown.page/issues"
+  },
+  "homepage": "https://github.com/Detea5050/Practise.dropdown.page#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
